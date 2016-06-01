@@ -1,0 +1,10 @@
+{
+  "name": "alanning:roles",
+  "version": "1.2.15",
+  "main": "main.d.ts",
+  "homepage": "https://atmospherejs.com/alanning/roles",
+  "ambient": true,
+  "ambientDependencies": {
+    "meteor": "registry:env/meteor"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "typings bundle --ambient -o out"
+  },
+  "devDependencies": {
+    "tsc": "^1.20150623.0",
+    "typings": "^1.0.4"
+  }
+}
